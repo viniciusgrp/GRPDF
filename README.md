@@ -1,4 +1,4 @@
-# GRPDF - Editor de PDF Online
+# GRPDF - Editor de PDF Online - Feito com IA
 
 Um editor de PDF moderno e intuitivo construído com Next.js 15 e TypeScript, permitindo edição completa de documentos PDF diretamente no navegador.
 
